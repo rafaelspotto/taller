@@ -1,5 +1,4 @@
-module github.com/rafaelspotto/dlocal
-
+module github.com/rafaelspotto/taller
 go 1.23.0
 
 toolchain go1.23.3
